@@ -1,3 +1,7 @@
+# Alternative in bash
+
+Use `base64 --decode` instead.
+
 # unb64
 parse base64 (std, url, padded, raw)
 
